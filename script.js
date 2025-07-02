@@ -1,1 +1,6 @@
-console.log('Olá, este é um console log!');
+
+let ativo = true;
+
+if (ativo) {
+    console.log(ativo);
+}
